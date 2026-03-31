@@ -7,12 +7,6 @@ The application is developed using **StackBlitz** and focuses on learning modern
 
 ---
 
-## 🚀 Live Demo
-
-👉 (Add your deployed link here if available)
-
----
-
 ## 📌 Features
 
 * 🍽️ Browse restaurants
